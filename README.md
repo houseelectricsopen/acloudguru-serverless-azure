@@ -1,3 +1,3 @@
 # acloudguru-serverless-azure
 ## azure training
-### authored by mr P
+### authored by  a n developer
